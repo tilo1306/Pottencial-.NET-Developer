@@ -1,0 +1,15 @@
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/bin/Debug/net6.0/calculadora
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/bin/Debug/net6.0/calculadora.deps.json
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/bin/Debug/net6.0/calculadora.runtimeconfig.json
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/bin/Debug/net6.0/calculadora.dll
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/bin/Debug/net6.0/calculadora.pdb
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.csproj.AssemblyReference.cache
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfoInputs.cache
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfo.cs
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.csproj.CoreCompileInputs.cache
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.dll
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/refint/calculadora.dll
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.pdb
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/calculadora.genruntimeconfig.cache
+/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/calculadora/obj/Debug/net6.0/ref/calculadora.dll
