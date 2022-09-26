@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYCzTPwU7b3W5zw21VjNozH1wYtx/nxbbcdsQur0h+omLIXx2iLw/5DlIVrDH4geF8qtYkX0jqaKvrEUDFvd1Q==",
+  "success": true,
+  "projectFilePath": "/home/douglas/Documentos/GIT HUB/Pottencial-.NET-Developer/interactive menu/interactive menu.csproj",
+  "expectedPackageFiles": [
+    "/home/douglas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
